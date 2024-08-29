@@ -1,0 +1,21 @@
+{
+  "name": "node-wmic",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper around the WMIC，Optimize Chinese garbled characters",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wukenaihehualuoqu/node-wmic.git"
+  },
+  "keywords": [
+    "wmic"
+  ],
+  "author": "wukenaihehualuoqu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wukenaihehualuoqu/node-wmic/issues"
+  },
+  "homepage": "https://github.com/wukenaihehualuoqu/node-wmic#readme"
+}
